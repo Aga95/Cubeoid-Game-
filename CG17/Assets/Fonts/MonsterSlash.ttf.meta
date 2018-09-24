@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4371ff01cda060e449d56294a85273a9
+timeCreated: 1512047391
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MonsterSlash
+  fontNames:
+  - MonsterSlash
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
